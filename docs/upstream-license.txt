@@ -1,0 +1,10 @@
+Upstream: https://www.instructables.com/Miter-Saw-Measuring-Device/
+Instructables id: ERRWPNWKQAX0DYJ
+Title: Miter Saw Measuring Device
+Author: WarrenW17
+Published: 2021-06-28 07:09:12.0
+Licence field (showInstructableModel JSON, saved as docs/upstream-instructable.json):
+  shortName: by
+  fullName: Attribution
+  url: https://creativecommons.org/licenses/by/4.0/
+Scope: the author's own text, photos and attached files on the instructable.
